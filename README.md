@@ -1,7 +1,7 @@
 # Design pattern per day
 ### Study design patterns every day for 30 days and implement short examples 
 --------------------------------------------------------------------------------
-##Creational Design Patterns
+## Creational Design Patterns
 #### <ins>Day 1 - Factory Method</ins>
 `package org.learn.david.creational.factorymethod;`
 
@@ -29,7 +29,7 @@ of related objects without specifying their concrete classes.
 Singleton is a creational design pattern that lets you ensure that a class has <br>
 only one instance, while providing a global access point to this instance.
 
-##Structural Design Patterns
+## Structural Design Patterns
 
 #### <ins>Day 5 - Adapter</ins>
 `package org.learn.david.structural.adapter;`
