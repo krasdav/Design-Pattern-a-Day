@@ -1,9 +1,9 @@
-package org.learn.david.structural.bridge.yesbridge;
+package org.learn.david.structural.bridge.bridge;
 
-import org.learn.david.structural.bridge.yesbridge.type.DivineType;
-import org.learn.david.structural.bridge.yesbridge.type.ShortType;
-import org.learn.david.structural.bridge.yesbridge.weapon.Hammer;
-import org.learn.david.structural.bridge.yesbridge.weapon.Sword;
+import org.learn.david.structural.bridge.bridge.type.DivineType;
+import org.learn.david.structural.bridge.bridge.type.ShortType;
+import org.learn.david.structural.bridge.bridge.weapon.Hammer;
+import org.learn.david.structural.bridge.bridge.weapon.Sword;
 
 /*
     Same (as in nobridge) achieved with 7 classes, instead of 12. The more will be added the bigger impact there is.

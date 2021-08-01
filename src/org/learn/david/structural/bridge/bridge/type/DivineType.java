@@ -1,4 +1,4 @@
-package org.learn.david.structural.bridge.yesbridge.type;
+package org.learn.david.structural.bridge.bridge.type;
 
 public class DivineType implements Type{
     @Override

@@ -1,30 +1,30 @@
-package org.learn.david.structural.bridge.yesbridge.weapon;
+package org.learn.david.structural.bridge.bridge.weapon;
 
-import org.learn.david.structural.bridge.yesbridge.type.Type;
+import org.learn.david.structural.bridge.bridge.type.Type;
 
-public class Sword implements Weapon{
+public class Hammer implements Weapon {
 
     private final Type type;
 
-    public Sword(Type type) {
+    public Hammer(Type type) {
         this.type = type;
     }
 
     @Override
     public void swing() {
-        System.out.println("Sword swing");
+        System.out.println("Swing Hammer");
         type.apply();
     }
 
     @Override
     public void weild() {
-        System.out.println("Sword weild");
+        System.out.println("Weild Hammer");
         type.onActivate();
     }
 
     @Override
     public void unwield() {
-        System.out.println("Sword unweild");
+        System.out.println("Unweild Hammer");
         type.onDeactivate();
     }
 

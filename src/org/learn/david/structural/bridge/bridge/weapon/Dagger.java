@@ -1,6 +1,6 @@
-package org.learn.david.structural.bridge.yesbridge.weapon;
+package org.learn.david.structural.bridge.bridge.weapon;
 
-import org.learn.david.structural.bridge.yesbridge.type.Type;
+import org.learn.david.structural.bridge.bridge.type.Type;
 
 public class Dagger implements Weapon{
     private final Type type;

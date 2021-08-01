@@ -1,4 +1,4 @@
-package org.learn.david.structural.bridge.yesbridge.type;
+package org.learn.david.structural.bridge.bridge.type;
 
 public interface Type {
     void onActivate();

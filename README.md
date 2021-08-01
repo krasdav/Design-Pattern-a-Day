@@ -36,3 +36,11 @@ only one instance, while providing a global access point to this instance.
 
 Adapter is a org.learn.david.structural design pattern that allows objects with<br>
 incompatible interfaces to collaborate.
+
+#### <ins>Day 6 - Bridge</ins>
+`package org.learn.david.structural.bridge.nobridge;`  - Without Bridge Pattern <br>
+`package org.learn.david.structural.bridge.bridge;`    - Bridge Pattern used
+
+Bridge is a structural design pattern that lets you split a large class or a set<br>
+of closely related classes into two separate hierarchies—abstraction and <br>
+implementation—which can be developed independently of each other.
