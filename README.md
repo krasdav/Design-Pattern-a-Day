@@ -44,3 +44,9 @@ incompatible interfaces to collaborate.
 Bridge is a structural design pattern that lets you split a large class or a set<br>
 of closely related classes into two separate hierarchies—abstraction and <br>
 implementation—which can be developed independently of each other.
+
+#### <ins>Day 7 - Composite</ins>
+`package org.learn.david.structural.composite;`
+
+Composite is a structural design pattern that lets you compose objects into <br>
+tree structures and then work with these structures as if they were individual objects.
