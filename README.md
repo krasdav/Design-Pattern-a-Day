@@ -50,3 +50,21 @@ implementation—which can be developed independently of each other.
 
 Composite is a structural design pattern that lets you compose objects into <br>
 tree structures and then work with these structures as if they were individual objects.
+
+#### <ins>Day 8 & 9 - Decorator & Facade</ins>
+`package org.learn.david.structural.decorator;`
+
+Decorator is a structural design pattern that lets you attach new behaviors <br>
+to objects by placing these objects inside special wrapper objects that contain <br>
+the behaviors.
+
+`package org.learn.david.structural.facade;`
+Facade is a structural design pattern that provides a simplified interface to a <br>
+library, a framework, or any other complex set of classes.
+
+#### <ins>Day 10 - Flyweight</ins>
+`package org.learn.david.structural.flyweight;`
+
+Flyweight is a structural design pattern that lets you fit more objects into the<br>
+available amount of RAM by sharing common parts of state between multiple objects<br>
+instead of keeping all of the data in each object.
