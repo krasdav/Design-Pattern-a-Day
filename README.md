@@ -68,3 +68,10 @@ library, a framework, or any other complex set of classes.
 Flyweight is a structural design pattern that lets you fit more objects into the<br>
 available amount of RAM by sharing common parts of state between multiple objects<br>
 instead of keeping all of the data in each object.
+
+#### <ins>Day 10 - Proxy</ins>
+`package org.learn.david.structural.proxy;`
+
+Proxy is a structural design pattern that lets you provide a substitute or placeholder<br>
+for another object. A proxy controls access to the original object, allowing you to <br>
+perform something either before or after the request gets through to the original object.
