@@ -78,6 +78,14 @@ perform something either before or after the request gets through to the origina
 
 #### <ins>Day 11 - Chain of Responsibility</ins>
 `package org.learn.david.behavioral.chainofresponsibility;`
+
 Chain of Responsibility is a behavioral design pattern that lets you pass requests along<br>
 a chain of handlers. Upon receiving a request, each handler decides either to process the<br>
 request or to pass it to the next handler in the chain.
+
+#### <ins>Day 12 - Command</ins>
+`package org.learn.david.behavioral.command;`
+
+Command is a behavioral design pattern that turns a request into a stand-alone object that<br>
+contains all information about the request. This transformation lets you pass requests as<br>
+a method arguments, delay or queue a request’s execution, and support undoable operations.
