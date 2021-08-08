@@ -75,3 +75,9 @@ instead of keeping all of the data in each object.
 Proxy is a structural design pattern that lets you provide a substitute or placeholder<br>
 for another object. A proxy controls access to the original object, allowing you to <br>
 perform something either before or after the request gets through to the original object.
+
+#### <ins>Day 11 - Chain of Responsibility</ins>
+`package org.learn.david.behavioral.chainofresponsibility;`
+Chain of Responsibility is a behavioral design pattern that lets you pass requests along<br>
+a chain of handlers. Upon receiving a request, each handler decides either to process the<br>
+request or to pass it to the next handler in the chain.
