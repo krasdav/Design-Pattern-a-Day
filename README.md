@@ -89,3 +89,10 @@ request or to pass it to the next handler in the chain.
 Command is a behavioral design pattern that turns a request into a stand-alone object that<br>
 contains all information about the request. This transformation lets you pass requests as<br>
 a method arguments, delay or queue a request’s execution, and support undoable operations.
+
+
+#### <ins>Day 12 - Iterator</ins>
+`package org.learn.david.behavioral.iterator;`
+
+Iterator is a behavioral design pattern that lets you traverse elements of a collection without<br>
+exposing its underlying representation (list, stack, tree, etc.).
