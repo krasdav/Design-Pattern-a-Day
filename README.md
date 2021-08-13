@@ -96,3 +96,18 @@ a method arguments, delay or queue a request’s execution, and support undoable
 
 Iterator is a behavioral design pattern that lets you traverse elements of a collection without<br>
 exposing its underlying representation (list, stack, tree, etc.).
+
+
+#### <ins>Day 13 - Mediator</ins>
+`package org.learn.david.behavioral.mediator;`
+
+Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects.<br>
+The pattern restricts direct communications between the objects and forces them to collaborate only<br>
+via a mediator object.
+
+
+#### <ins>Day 14 - Memento</ins>
+`package org.learn.david.behavioral.memento;`
+
+Memento is a behavioral design pattern that lets you save and restore the previous state of an object<br>
+without revealing the details of its implementation.
