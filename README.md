@@ -76,6 +76,8 @@ Proxy is a structural design pattern that lets you provide a substitute or place
 for another object. A proxy controls access to the original object, allowing you to <br>
 perform something either before or after the request gets through to the original object.
 
+## Behavioral Design Patterns
+
 #### <ins>Day 11 - Chain of Responsibility</ins>
 `package org.learn.david.behavioral.chainofresponsibility;`
 
@@ -90,24 +92,27 @@ Command is a behavioral design pattern that turns a request into a stand-alone o
 contains all information about the request. This transformation lets you pass requests as<br>
 a method arguments, delay or queue a request’s execution, and support undoable operations.
 
-
-#### <ins>Day 12 - Iterator</ins>
+#### <ins>Day 13 - Iterator</ins>
 `package org.learn.david.behavioral.iterator;`
 
 Iterator is a behavioral design pattern that lets you traverse elements of a collection without<br>
 exposing its underlying representation (list, stack, tree, etc.).
 
-
-#### <ins>Day 13 - Mediator</ins>
+#### <ins>Day 14 - Mediator</ins>
 `package org.learn.david.behavioral.mediator;`
 
 Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects.<br>
 The pattern restricts direct communications between the objects and forces them to collaborate only<br>
 via a mediator object.
 
-
-#### <ins>Day 14 - Memento</ins>
+#### <ins>Day 15 - Memento</ins>
 `package org.learn.david.behavioral.memento;`
 
 Memento is a behavioral design pattern that lets you save and restore the previous state of an object<br>
 without revealing the details of its implementation.
+
+#### <ins>Day 16 - Observer</ins>
+`package org.learn.david.behavioral.observer;`
+
+Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple<br>
+objects about any events that happen to the object they’re observing.
