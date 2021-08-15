@@ -116,3 +116,9 @@ without revealing the details of its implementation.
 
 Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple<br>
 objects about any events that happen to the object they’re observing.
+
+#### <ins>Day 17 - State</ins>
+`package org.learn.david.behavioral.state;`
+
+State is a behavioral design pattern that lets an object alter its behavior when its internal state<br>
+changes. It appears as if the object changed its class.
