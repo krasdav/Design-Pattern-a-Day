@@ -128,3 +128,9 @@ changes. It appears as if the object changed its class.
 
 Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them<br>
 into a separate class, and make their objects interchangeable.
+
+#### <ins>Day 18 - Template Method</ins>
+`package org.learn.david.behavioral.templatemethod;`
+
+Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the<br>
+superclass but lets subclasses override specific steps of the algorithm without changing its structure.`
