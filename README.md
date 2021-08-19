@@ -134,3 +134,7 @@ into a separate class, and make their objects interchangeable.
 
 Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the<br>
 superclass but lets subclasses override specific steps of the algorithm without changing its structure.`
+
+#### <ins>Day 19 - Visitor</ins>
+`package org.learn.david.behavioral.visitor;`
+Visitor is a behavioral design pattern that lets you separate algorithms from the objects on which they operate.
